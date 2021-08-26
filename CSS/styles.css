@@ -1,0 +1,16 @@
+.myCustomClass {
+    background-color: cadetblue;
+    color: chocolate;
+}
+
+.myContent {
+    height: 300px;
+    /*background-color: darkcyan !important;*/
+    border: dotted #2D2222;
+}
+
+.myclass {
+    height: 500px;
+    padding-right: 15rem !important;
+    text-align: center;
+}
